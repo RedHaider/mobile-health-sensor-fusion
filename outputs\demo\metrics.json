@@ -1,0 +1,14 @@
+{
+  "standard": {
+    "complete_auroc": 0.8275349934895834,
+    "motion_missing_auroc": 0.7546318901909722,
+    "audio_missing_auroc": 0.7394816080729166,
+    "environment_missing_auroc": 0.8069254557291667
+  },
+  "modality_dropout": {
+    "complete_auroc": 0.827785915798611,
+    "motion_missing_auroc": 0.7536688910590277,
+    "audio_missing_auroc": 0.7397732204861112,
+    "environment_missing_auroc": 0.8065388997395833
+  }
+}
